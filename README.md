@@ -17,10 +17,10 @@ Clone the repository:
 git clone https://github.com/LauroCalabria/Python-Factorial-Calculation.git
 
 Navigate to the folder:
-cd Python-Factorial-Calculation
+cd python-factorial-calculation
 
 Run the file:
-ex060-Cálculo do Fatorial.py
+Cálculo do Fatorial.py
 
 📚 Learning Purpose
 
